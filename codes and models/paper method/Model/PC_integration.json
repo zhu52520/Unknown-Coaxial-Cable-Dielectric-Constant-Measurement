@@ -1,0 +1,26 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "d2",
+         "type": "float",
+         "value": 200.0
+      },
+      {
+         "name": "d",
+         "type": "float",
+         "value": 55.0
+      }
+   ],
+   "outputVariables": [
+      {
+         "len": 1,
+         "name": "3D\\1e-field (f=10) (1)",
+         "type": "float",
+         "value": 0.0
+      }
+   ]
+}

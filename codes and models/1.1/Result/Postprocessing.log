@@ -1,0 +1,19 @@
+Postprocessing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based postprocessing started at: 06:41 PM Saturday, 11. June 2022
+
+  Evaluating '1e-field (f=10) (1)': 1 s
+
+  Total time: 1 s  ( = 0 h, 0 m, 1 s )
+
+Template based postprocessing finished at: 06:41 PM Saturday, 11. June 2022
+----------------------------------------------------------------------------------------
